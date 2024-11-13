@@ -1,4 +1,4 @@
-![Screenshot 2024-11-13 085607](https://github.com/user-attachments/assets/eb403110-0156-4c78-a19a-a7befc126aea)# Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools
+# Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools
 Ex No: 06     Design & Implementation of 2 bit multiplier Using Cadence EDA Tools   
 
 Aim:
