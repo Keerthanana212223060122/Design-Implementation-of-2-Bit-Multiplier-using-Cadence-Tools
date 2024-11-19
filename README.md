@@ -48,7 +48,7 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0032]"C:\Users\Admin\OneDrive\Pictures\Screenshots 1\Screenshot 2024-11-13 085533.png"
+![Screenshot 2024-11-15 212157](https://github.com/user-attachments/assets/807c517f-17ac-4371-ab1b-e361332fa3ab)
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -65,7 +65,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0029]"C:\Users\Admin\OneDrive\Pictures\Screenshots 1\Screenshot 2024-11-13 085551.png"
+ ![WhatsApp Image 2024-11-15 at 21 30 11_411798a2](https://github.com/user-attachments/assets/9b14647a-330b-4231-9bea-369181a43629)
 
 
 
@@ -80,7 +80,7 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0031]"C:\Users\Admin\OneDrive\Pictures\Screenshots 1\Screenshot 2024-11-13 085607.png"
+![Screenshot 2024-11-13 125028](https://github.com/user-attachments/assets/2e4a0b5c-d813-42fc-a296-4980f8dbcc3b)
 
 
  
@@ -96,14 +96,14 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 
-![IMG-20241026-WA0016]"C:\Users\Admin\OneDrive\Pictures\Screenshots 1\Screenshot 2024-11-13 085618.png"
+![Screenshot 2024-11-13 125135](https://github.com/user-attachments/assets/4d430ebd-230e-42da-beb9-031fec3048d4)
 
 
 For Transient Analysis Settings and Output
-![IMG-20241019-WA0028]"C:\Users\Admin\OneDrive\Pictures\Screenshots 1\Screenshot 2024-11-13 085628.png"
+![Screenshot 2024-11-13 125218](https://github.com/user-attachments/assets/6e661540-5222-4374-9313-535923d1b459)
 
 
- ![IMG-20241019-WA0027]"C:\Users\Admin\OneDrive\Pictures\Screenshots 1\Screenshot 2024-11-13 085640.png"
+![Screenshot 2024-11-15 211605](https://github.com/user-attachments/assets/1f68b4a2-eda2-4cab-9f66-64abb91366c1)
 
   
 
